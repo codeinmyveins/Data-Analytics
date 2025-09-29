@@ -5,7 +5,7 @@ This repository contains all my Data Analytics projects including Excel, Power B
 ## Projects
 
 ### Excel Projects
-1. [Adidas Dashboard](Excel-Projects/Adidas-Dashboard/README.md)
+1. [Adidas Dashboard](Excel-Projects/Adidas-Dashboard)
    
 ### Power BI Projects
 - upload pending
