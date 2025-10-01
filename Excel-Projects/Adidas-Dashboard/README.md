@@ -32,7 +32,7 @@ This page provides detailed analysis across regions, retailers, and products:
 
 | Visualization | Insight Provided |
 | :--- | :--- |
-| **Sales, Profit and Units Sold by Region ** | Allowing quick comparison of regional performance. |
+| **Sales, Profit and Units Sold by Region** | Allowing quick comparison of regional performance. |
 | **Top 10 States** | Ranks individual states by total profitability. |
 | **Product Efficiency** | Shows contribution of each product category to total sales. |
 | **Interactivity** | Includes key **Slicers** for **Retailer**, **Region**, **Product Category**, and **Sales Method** to filter the dashboard dynamically. |
