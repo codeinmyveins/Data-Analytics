@@ -60,8 +60,8 @@ Based on the dashboard analysis, the following actionable insights were derived:
 
 * `US-Adidas-Sales.xlsx` – Final Excel project file containing cleaned data, Pivot Tables, Pivot Charts, and the complete two-page dashboard.  
 * `Excel Project.pdf` – Original project brief and dataset link.  
-* `Screenshots/Dashboard1.jpg` – Image preview of the **Sales Performance & Profitability Summary** dashboard.  
-* `Screenshots/Dashboard2.jpg` – Image preview of the **Regional & Product Analysis** dashboard.  
+* `Dashboard1.png` – Image preview of the **Sales Performance & Profitability Summary** dashboard.  
+* `Dashboard2.png` – Image preview of the **Regional & Product Analysis** dashboard.  
 
 ## 📝 How to Use the Dashboard
 
