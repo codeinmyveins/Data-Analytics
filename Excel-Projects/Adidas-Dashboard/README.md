@@ -32,7 +32,7 @@ This page provides detailed analysis across regions, retailers, and products:
 
 | Visualization | Insight Provided |
 | :--- | :--- |
-| **Sales, Profit and Units Sold by Region ** | Allowing quick comparison of regional performance. |
+| **Sales, Profit and Units Sold by Region** | Allowing quick comparison of regional performance. |
 | **Top 10 States** | Ranks individual states by total profitability. |
 | **Product Efficiency** | Shows contribution of each product category to total sales. |
 | **Interactivity** | Includes key **Slicers** for **Retailer**, **Region**, **Product Category**, and **Sales Method** to filter the dashboard dynamically. |
@@ -60,8 +60,8 @@ Based on the dashboard analysis, the following actionable insights were derived:
 
 * `US-Adidas-Sales.xlsx` – Final Excel project file containing cleaned data, Pivot Tables, Pivot Charts, and the complete two-page dashboard.  
 * `Excel Project.pdf` – Original project brief and dataset link.  
-* `Screenshots/Dashboard1.jpg` – Image preview of the **Sales Performance & Profitability Summary** dashboard.  
-* `Screenshots/Dashboard2.jpg` – Image preview of the **Regional & Product Analysis** dashboard.  
+* `Dashboard1.png` – Image preview of the **Sales Performance & Profitability Summary** dashboard.  
+* `Dashboard2.png` – Image preview of the **Regional & Product Analysis** dashboard.  
 
 ## 📝 How to Use the Dashboard
 
