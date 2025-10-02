@@ -5,13 +5,14 @@ This repository contains all my Data Analytics projects including Excel, Power B
 ## Projects
 
 ### Excel Projects
-1. [Adidas Dashboard](Excel-Projects/Adidas-Dashboard)
+- [Adidas Dashboard](Excel-Projects/Adidas-Dashboard)
    
 ### Power BI Projects
-- upload pending
-- 
-### Python Projects
-- upload pending
+- [Retail Insights Dashboard](PowerBI-Projects/Retail-Insights)
 
 ### SQL Projects
 - upload pending
+
+### Python Projects
+- upload pending
+
