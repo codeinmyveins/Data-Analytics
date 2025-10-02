@@ -14,13 +14,13 @@ The data was cleaned and transformed using Power Query to address missing values
 
 ### Missing Value Imputation
 
-* **Text Columns** (`Customer Name`, `Product Category`, `Supplier`): NULL values were replaced with the **“Unknown”** category.
-* **Numeric Columns** (`Quantity`, `Price`, `Stock`): NULL values were replaced with the **median** of the respective column.
+- **Text Columns** (`Customer Name`, `Product Category`, `Supplier`): NULL values were replaced with the **“Unknown”** category.
+- **Numeric Columns** (`Quantity`, `Price`, `Stock`): NULL values were replaced with the **median** of the respective column.
 
 ### Consistency & Handling
 
-* **Column Renaming**: Confusing column names were renamed (e.g., `Product` → `Product Category`).
-* **DAX Development**: Created DAX measures for all key performance indicators (KPIs) and calculated columns (e.g., `Revenue = Quantity × Price`).
+- **Column Renaming**: Confusing column names were renamed (e.g., `Product` → `Product Category`).
+- **DAX Development**: Created DAX measures for all key performance indicators (KPIs) and calculated columns (e.g., `Revenue = Quantity × Price`).
 
 ## 📊 Dashboard Features & Key Metrics
 
@@ -33,7 +33,7 @@ The dashboard provides immediate, data-driven answers across the three key busin
 | **Total Sales**     | **$944,000**           | Overall revenue performance. |
 | **Avg Order Value** | **$944**               | Customer spending behavior.  |
 
-* **Highest Revenue Categories**: Identified **Laptop ($204K)** and **Tablet ($192K)** as the top-performing categories.
+- **Highest Revenue Categories**: Identified **Laptop ($204K)** and **Tablet ($192K)** as the top-performing categories.
 
 ### Customer Feedback
 
@@ -51,29 +51,29 @@ The dashboard provides immediate, data-driven answers across the three key busin
 
 ## 🔑 Key Findings
 
-* **Data Quality Impact**: **15.08%** of total revenue comes from **Unknown customers**, indicating a need for improved front-end data collection to strengthen **CRM** strategies.
-* **Revenue Drivers**: **Laptop** and **Tablet** are the dominant revenue categories, but **$189K** in revenue was initially classified as an **"Unknown"** product category due to data issues, highlighting the success of the imputation strategy.
-* **Improvement Area**: The **Average Rating of 3.2** suggests a neutral-to-positive sentiment, which flags specific areas for targeted improvement in the customer experience.
+- **Data Quality Impact**: **15.08%** of total revenue comes from **Unknown customers**, indicating a need for improved front-end data collection to strengthen **CRM** strategies.
+- **Revenue Drivers**: **Laptop** and **Tablet** are the dominant revenue categories, but **$189K** in revenue was initially classified as an **"Unknown"** product category due to data issues, highlighting the success of the imputation strategy.
+- **Improvement Area**: The **Average Rating of 3.2** suggests a neutral-to-positive sentiment, which flags specific areas for targeted improvement in the customer experience.
 
 ## 📁 Repository Structure
 
 ```text
 📦 Retail-Insights
- ┣ Project.pbix (Power BI project file)
  ┣ Dashboard.jpg (Overview Dashboard Image)
+ ┣ Power BI Dataset.pdf (Provided Dataset)
  ┣ Power BI Project.pdf (Original project brief)
+ ┣ Project.pbix (Power BI project file)
  ┣ README.md
 ```
 
 ## 🚀 Skills Demonstrated
 
-* **Data Cleaning** (missing value imputation, categorical handling)
-* **Data Transformation** (Power Query, calculated columns)
-* **Data Modeling** (establishing table relationships)
-* **DAX** (KPIs, measures, calculated columns)
-* **Dashboard Design** (interactive visuals, data storytelling)
+- **Data Cleaning** (missing value imputation, categorical handling)
+- **Data Transformation** (Power Query, calculated columns)
+- **Data Modeling** (establishing table relationships)
+- **DAX** (KPIs, measures, calculated columns)
+- **Dashboard Design** (interactive visuals, data storytelling)
 
 ## 📌 Project Summary
 
 This project demonstrates expertise in end-to-end data analysis, transforming a highly uncleaned retail dataset into a strategic Power BI Dashboard. Core skills include **data imputation** (handling ~20% missing values), **DAX development** for key KPIs (**Total Sales**, **Avg Order Value**, **Avg Rating**), and designing visualizations that drive business decisions in **Sales Performance**, **Customer Feedback**, and **Inventory Management**. Key insights include identifying **Laptop** and **Tablet** as top revenue drivers and flagging critical data quality issues in **Customer** and **Product** categories.
-
