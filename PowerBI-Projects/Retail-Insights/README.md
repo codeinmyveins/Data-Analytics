@@ -6,7 +6,7 @@ This project showcases my ability to **clean, transform, and analyze** a highly 
 
 The original dataset contained approximately $\mathbf{20\%}$ random missing values across both text and numeric columns. If standard listwise deletion were applied, the remaining usable dataset would have been reduced to only $\mathbf{30\%–40\%}$ of the original records. Rather than discarding a large portion of the data, I employed robust **data imputation strategies** and transparent handling of "Unknown" values to preserve data integrity and utility. The original problem brief is available in the `Power BI Project.pdf`.
 
-[Retail Insights Dashboard Overview](Retail-Insights/Dashboard.jpg)
+![Retail Insights Dashboard Overview](Retail-Insights/Dashboard.jpg)
 
 ## 🧹 Data Cleaning & Transformation
 
