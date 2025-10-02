@@ -61,7 +61,7 @@ The dashboard provides immediate, data-driven answers across the three key busin
 📦 Retail-Insights
  ┣ Project.pbix (Power BI project file)
  ┣ Dashboard.jpg (Overview Dashboard Image)
- ┣ Problem_Statement.pdf (Original project brief)
+ ┣ Power BI Project.pdf (Original project brief)
  ┣ README.md
 ```
 
@@ -72,8 +72,6 @@ The dashboard provides immediate, data-driven answers across the three key busin
 - **Data Modeling** (establishing table relationships)
 - **DAX** (KPIs, measures, calculated columns)
 - **Dashboard Design** (interactive visuals, data storytelling)
-
----
 
 ## Project Summary
 
